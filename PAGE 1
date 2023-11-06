@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+    <link rel="stylesheet" href="style.css"> <!--لو حملتو ال سي اس اس من الموقع بنفس اسمو خلاص متغيروش حاجه هنا لكن لو عملتو في فايل تاني اكتبو اسم الفايل هنا -->
+    <title>London</title><!--غيرو اسم الدوله-->
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">London</a><!-- شيلو لندن وحطو اسم الدوله بتاعتكو-->
+        <nav class="navigation">
+            <a href="">home</a>
+            <a href="">about</a>
+            <a href="">contact</a>
+        </nav>
+    </header>
+    <section class="main">
+        <div>
+            <h2>Welcome to London</h2> <!--اسم دولتكوو برضو-->
+            <h3>Your Adventure Awaits</h3><!--عايزين تغيرو الجمله اشطا-->
+            <!--الكومنت اللي في السطر اللي جي طويل -->
+            <a href="2.html" class="main-btn">where to go in London</a><!--عايزين نغير اسم الدوله.... وبرضو هنا هتربطو الصفحه التانيه بتاعت الدوله بتاعتكو بالصفحه الحاليه شيلو بس 2 اتش تي ام ال دي واكتبو اسم الفايل اللي فيه الصفحه التانيه-->
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>seasons & events</h4>
+                    <ul>
+                        <li><a href="#">seasons</a></li>
+                        <li><a href="#">our calender</a></li>
+                        <li><a href="#">privacy policy</a></li>
+                        <li><a href="#">our programs</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>useful information</h4>
+                    <ul>
+                        <li><a href="#">FAQ</a></li>
+                        <li><a href="#">reservation state</a></li>
+                        <li><a href="#">payment option</a></li>
+                        <li><a href="#">order status</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Discover</h4>
+                    <ul>
+                        <li><a href="#">See & Do</a></li>
+                        <li><a href="#">plane your trip</a></li>
+                        <li><a href="#">Travel Essentials</a></li>
+                        <li><a href="#"></a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>follow us</h4>
+                    <div class="social links"></div>
+                    <div>
+                        <a href="#"><i class="fab fa-facebook-f"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
